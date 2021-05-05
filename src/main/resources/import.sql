@@ -1,0 +1,5 @@
+insert into paises (id,nombre) values (1,'España')
+insert into paises (id,nombre) values (2,'Reino Unido')
+insert into paises (id,nombre) values (3,'Colombia')
+insert into paises (id,nombre) values (4,'Brasil')
+insert into paises (id,nombre) values (5,'Holanda')
